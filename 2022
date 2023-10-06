@@ -18,7 +18,7 @@ local cons = {}
 
 local TweenService = game:GetService("TweenService")
 local tweenInfo = TweenInfo.new(
-	0.6, -- Time
+	0.3, -- Time
 	Enum.EasingStyle.Linear, -- EasingStyle
 	Enum.EasingDirection.Out, -- EasingDirection
 	0, -- RepeatCount (when less than zero the tween will loop indefinitely)
